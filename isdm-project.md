@@ -12,7 +12,7 @@
 
 ![investors empathy map](img/investors_empathy.png)
 
-
+![Company Owner Map](img/CompanyOwnerMap.png)
 
 
 
