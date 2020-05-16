@@ -25,9 +25,9 @@
 
 ![investors empathy map](img/investors_empathy.png)
 
-#####  2.  Company Owner
+#####  2.  Relationship Manager
 
-![Company Owner Map](img/CompanyOwnerMap.png)
+![Company Owner Map](img/RelationshipManager.png)
 
 
 
