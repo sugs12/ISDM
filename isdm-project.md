@@ -29,6 +29,15 @@
 
 ![Relationship Manager Map](img/RelationshipManager.png)
 
+#####  2.  Company Owner
+
+![Relationship Manager Map](img/Company_Owner.png)
+
+### **Approach from a Design Thinking Perspective**
+Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Our first stage will consist of creating empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology, the Ideate and Prototype phase will consist of creating a variety of business diagrams such as the Collaboration, Sequence and Use Case Diagrams which will help us visualise to the stakeholder our interpretation of their requirements. This will also allow the stakeholder to give any feedback to us about the requirement. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. 
+
+### **Agile Methodology**
+
 ### **Assumptions**
 
 * The following project started from 1st January 2020.
@@ -39,7 +48,4 @@
 * The customer cannot ask for a specific RM to serve them, as the customer will be directed to the first available RM that will meet their needs or enquiries.
 * The customer has the option to purchase the product online or in-store, assuming that the travel company has a website and a physical store.
 * There is an increase of customers during the holiday season, especially during school holidays.
-
-### **Approach from a Design Thinking Perspective**
-Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Our first stage will consist of creating empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology, the Ideate and Prototype phase will consist of creating a variety of business diagrams such as the Collaboration, Sequence and Use Case Diagrams which will help us visualise to the stakeholder our interpretation of their requirements. This will also allow the stakeholder to give any feedback to us about the requirement. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. 
 
