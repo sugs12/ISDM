@@ -1,6 +1,6 @@
 ## ISDM – 31257 Autumn 2020 - project tut 2
 
-### **1. Project Objectives
+### **1. Project Objectives**
 2. Problem Defination
 3. Stakeholders 
 4. Design Thinking 
