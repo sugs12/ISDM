@@ -1,6 +1,6 @@
 ## ISDM – 31257 Autumn 2020 - project tut 2
 
-### **Problem Objectives**
+### **1. Project Objectives**
 ##### Our objective is to create an improved simplified system that improves the operation of their inhouse call management system. We aim to do complete this objective through the following:  
 
 * Provide suggestions as to how the company can improve their operations
