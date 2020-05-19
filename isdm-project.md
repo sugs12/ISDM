@@ -47,10 +47,10 @@ The travel company requires a new information systems to meet the needs of the f
 
 #####  3.  Company Owner
 
-![Relationship Manager Map](img/Company_Owner.png)
+![Company Owner Map](img/Company_Owner.png)
 
 ####  4.  Customer
-![Relationship Manager Map]
+![Customer Map]
 
 ### **Approach from a Design Thinking Perspective**
 #####  Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Our first stage will consist of creating empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology, the Ideate and Prototype phase will consist of creating a variety of business diagrams such as the Collaboration, Sequence and Use Case Diagrams which will help us visualise to the stakeholder our interpretation of their requirements. This will also allow the stakeholder to give any feedback to us about the requirement. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. 
