@@ -7,7 +7,7 @@
 4. Design Thinking 
 5. Assumptions
 
-#### 1. **Project Objectives**
+### 1. **Project Objectives**
 #### The primary objective is to develop a simplified information system that will improve operation of the in-house call management system (CMC) of a major travel company. The following objectives can help accomplish this goal:  
 
 * List the overall assumptions of the system.
