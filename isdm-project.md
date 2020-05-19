@@ -19,11 +19,20 @@
 
 #### Achieving the above mentioned objectives and developing the information system will enable the travel company to: 
 
+* Sell holiday packages to potential customers efficiently.
+* Minimize the inbound call costs by reducing per-call handling time.
 * Improve call routing and dynamic call flow control for inbound and outbound calls.
 * Improve accuracy when matching a customer to a Relationship Manager (RM) that suits the customer’s needs.
-* Sell holiday packages to potential customers.
+* Redirect the call of a customer to an Automatic Call Distributor which will route the call to the first available appropriate RM.
 
-### 2. **Problem Statement**
+### 2. **Problem Defination**
+The problem that this major travel company faced that lead them to request a new information system was that thier present CMC has a weak call flow control which causes a clutter, making the customers hang up due to the long wait time. The system operation is also complicated because of the varying number of RMs and nature of the holiday packages offered.
+
+The travel company requires a new information systems to meet the needs of the following stakeholders:
+* Relationship Managers: Need a better calling system to effectively communicate with the customer, in order to sell the company’s products.
+* Company: Needs an effective management system that enables them to work better internally. This would increase the overall organization of the business.   
+* Company Owner: Needs an effective business tool that earns profit for the company as well as increasing overall company reputation.  
+* Customers: Need to receive better customer service from the company. This can be fixed by being matched with the correct RM that is tailored to the customers profile and will be served by a qualified RM who is experienced in the customer’s needs. During busy times, they ccould be directed to an Interactive Voice Response so they do not suffer from a long wait time. 
 
 
 ### 3. **Stakeholders**
@@ -36,9 +45,12 @@
 
 ![Relationship Manager Map](img/RelationshipManager.png)
 
-#####  2.  Company Owner
+#####  3.  Company Owner
 
 ![Relationship Manager Map](img/Company_Owner.png)
+
+####  4.  Customer
+![Relationship Manager Map]
 
 ### **Approach from a Design Thinking Perspective**
 #####  Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Our first stage will consist of creating empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology, the Ideate and Prototype phase will consist of creating a variety of business diagrams such as the Collaboration, Sequence and Use Case Diagrams which will help us visualise to the stakeholder our interpretation of their requirements. This will also allow the stakeholder to give any feedback to us about the requirement. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. 
@@ -56,4 +68,4 @@
 * The customer cannot ask for a specific RM to serve them, as the customer will be directed to the first available RM that will meet their needs or enquiries.
 * The customer has the option to purchase the product online or in-store, assuming that the travel company has a website and a physical store.
 * There is an increase of customers during the holiday season, especially during school holidays.
-
+* The current system can dial the same number automatically according to the target list generated.
