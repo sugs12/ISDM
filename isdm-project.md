@@ -8,20 +8,20 @@
 5. Assumptions
 
 #### 1. Project Objectives
-#### Our objective is to create an improved simplified system that improves the operation of their inhouse call management system. We aim to do complete this objective through the following:  
+#### The primary objective is to develop a simplified information system that will improve operation of the in-house call management system (CMC) of a major travel company. The following objectives can help accomplish this goal:  
 
-* Provide suggestions as to how the company can improve their operations
-* Define the problem from a design thinking perspective
-* List the overall assumptions of the system 
-* Document our proposed solutions including any Information System models and work products
-* Create any needed diagrams that can be used to help explain, promote and visualise the new business system. 
-* Discuss advantages and disadvantages of improving the overall system as well as the failures that are associated with this. 
+* List the overall assumptions of the system.
+* Define the problem from a design thinking perspective.
+* Provide suggestions as to how the company can improve their operations.
+* Document the proposed solutions including any Information System models and work products.
+* Create diagrams that can be used to help explain, promote and visualise the new business system.
+* Discuss advantages and disadvantages of improving the overall system as well as the failures that can be associated with this.
 
-##### We hope, by the end of the project, the company will be able to achieve the following: 
+#### Achieving the above mentioned objectives and developing the information system will enable the travel company to: 
 
-* System will be used by Relationship Managers to sell holiday packages to potential customers.
-* Improved call routing and dynamic call flow control for inbound and outbound calls.
-* Improved accuracy when matching a customer to a RM that suits the customer’s needs.
+* Improve call routing and dynamic call flow control for inbound and outbound calls.
+* Improve accuracy when matching a customer to a Relationship Manager (RM) that suits the customer’s needs.
+* Sell holiday packages to potential customers.
 
 ### **Problem Statement**
 
