@@ -88,3 +88,42 @@ The travel company requires a new information systems to meet the needs of the f
 ### **Class  Diagrams**
 
 ### **Competitive Advantages**
+
+This is some dot points
+1.	Shorting Duration of Calls
+-	RMs know exactly what customers’ need and want 
+-	Appropriate information will be provided
+-	Real-times updates – Customers can get the status of their holiday itinerary in real time 
+
+2.	Improve Customer Service 
+-	Contact beyond business operation hours – RMs can work from remote location and do not need to define to business operation hours = increase accessibility 
+-	Reduce waiting time to get connection to a person 
+-	Happier Customers 
+3.	Reducing expenses  
+-	Less advertisement expenses
+-	No need office spaces and office equipment expenses
+-	Right staffs are hired 
+4.	Increase Profits
+-	Manage more inbound calls
+-	More sales will make 
+-	Staffs will become efficient and productivity 
+5.	Increase Business Values 
+-	Increase business good will 
+-	More investors 
+-	Expand business without worrying extra cost 
+-	Obtain accurate customer profile data which can be used for future services eg. Data mining
+Negative: 
+1.	Setting up Cost 
+-	Implementation cost
+-	Hiring cost 
+-	Training and Educate Staffs 
+2.	Network outage or natural disasters or phone congestion
+-	Staffs availability to pick up the phone 
+2.	Face to face relationships between customers and business 
+-	Less accessing points to customers
+-	No customers’ bonding 
+3.	Miss communication
+-	Not everything can be explained via phone 
+4.	Security
+-	Accessibility to customer data? What if system fails the retrieve accurate customers information?
+
