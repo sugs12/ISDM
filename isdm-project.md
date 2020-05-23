@@ -74,3 +74,11 @@ The travel company requires a new information systems to meet the needs of the f
 * The customer has the option to purchase the product online or in-store, assuming that the travel company has a website and a physical store.
 * There is an increase of customers during the holiday season, especially during school holidays.
 * The current system can dial the same number automatically according to the target list generated.
+
+### **Use Case Diagrams**
+
+### **Activity Diagrams**
+
+### **Class  Diagrams**
+
+### **Competitive Advantages**
