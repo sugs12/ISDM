@@ -38,6 +38,7 @@ The travel company requires a new information systems to meet the needs of the f
 * Company: Needs an effective management system that enables them to work better internally. This would increase the overall organization of the business.   
 * Company Owner: Needs an effective business tool that earns profit for the company as well as increasing overall company reputation.  
 * Customers: Need to receive better customer service from the company. This can be fixed by being matched with the correct RM that is tailored to the customers profile and will be served by a qualified RM who is experienced in the customer’s needs. During busy times, they ccould be directed to an Interactive Voice Response so they do not suffer from a long wait time. 
+* Travel companay: Need a good effective and convinient system that holiday package can be accessed easily RMs and exposed to customers. Thus, this will increase holiday package sales and gain more negotiation power to get a better value and high quality holiday packages. 
 
 
 ### 3. **Stakeholders**
