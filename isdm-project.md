@@ -63,7 +63,9 @@ The travel company requires a new information systems to meet the needs of the f
 
 #####  5.  Travel Company
 
-![Travel Company Empathy](img/Travel_Company.PNG)
+<p align="center">
+  <img src="imgTravel_Company.PNG">
+</p>
 
 ### 4. **Product Backlog (User Stories)**
 #### Customers
