@@ -4,13 +4,16 @@
 1. Project Objectives
 2. Problem Defination
 3. Stakeholders 
-4. Design Thinking 
-5. Agile Methodology
-6. Assumptions
-7. Use Case Diagrams
-8. Activity Diagrams
-9. Class Diagrams
-10. Competitve Advantages
+4. Product Backlog
+5. Design Thinking 
+6. Agile Methodology
+7. Assumptions
+8. Use Case Diagrams
+9. Activity Diagrams
+10. Class Diagram
+10. Collaboration Diagram
+12. Competitve Advantages
+13. Presentation
 
 ### 1. **Project Objectives**
 #### The primary objective is to develop a simplified information system that will improve operation of the in-house call management system (CMC) of a major travel company. The following objectives can help accomplish this goal:  
@@ -62,13 +65,15 @@ The travel company requires a new information systems to meet the needs of the f
 
 ![Travel Company Empathy](img/Travel_Company.PNG)
 
-### **Approach from a Design Thinking Perspective**
+### 4. **Product Backlog**
+
+### 5. **Approach from a Design Thinking Perspective**
 #####  Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Our first stage will consist of creating empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology, the Ideate and Prototype phase will consist of creating a variety of business diagrams such as the Collaboration, Sequence and Use Case Diagrams which will help us visualise to the stakeholder our interpretation of their requirements. This will also allow the stakeholder to give any feedback to us about the requirement. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. 
 
-### **Agile Methodology**
+### 6.  **Agile Methodology**
 ##### The Scrum framework we have used to carry out this procedure follows the values and principles of Agile methodology.  The Scrum team consists of three roles including a Product Owner, who is a single person allowing for faster decision making, Scrum Master, who is responsible for ensuring the Scrum framework and Agile methodology is enacted and a Development Team, who is responsible for building a potentially releasable product at the end of each Sprint.  The Sprints are two weeks long allowing for faster feedback and more opportunities to improve on design, coding, testing, and documentation.  Each Sprint starts with Sprint Planning to define a goal of the sprint and each Sprint ends with a Sprint Review and Sprint Retrospective, to examine what has been made, what worked well, what didn’t work well and ways to improve in the next increment.   Scrum Artifacts used in this project include the product backlog, which consists of User Stories that outline the requirements for the system and product, and Sprint Backlog, which consists of a specific list of items taken from the product backlog to be completed in a sprint.
 
-### **Assumptions**
+### 7.  **Assumptions**
 
 * The following project started from 1st January 2020. 
 * The RM can be disconnected in a call at any time, either intentionally or unintentionally by the customer.        
@@ -80,20 +85,21 @@ The travel company requires a new information systems to meet the needs of the f
 * The phone call will not be recorded at any point in time due to privacy concerns.
 * Assuming the call centre is still available during a pandemic, there will be an increase of enquiries rather than sales. However, there will be a decrease of RMs due to health and safety concerns.
 
-
-### **Use Case Diagrams**
+### 8.  **Use Case Diagrams**
 
 ![Call Management System](img/Use_Case_Customer.png)
 
-### **Activity Diagrams**
+### 9.  **Activity Diagrams**
 
 #####  Relationship Manager/Information System Diagram
 
 ![RM Activity Diagram](img/RM_ActivityDiagram.png)
 
-### **Class  Diagrams**
+### 10.  **Class  Diagram**
 
-### **Competitive Advantages**
+### 11. **Collaboration Diagram**
+
+### 12. **Competitive Advantages**
 
 This is some dot points
 1.	Shorting Duration of Calls
@@ -133,3 +139,6 @@ Negative:
 4.	Security
 -	Accessibility to customer data? What if system fails the retrieve accurate customers information?
 
+### 13.  **Presentation**
+
+##### (link)
