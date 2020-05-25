@@ -132,7 +132,7 @@ Scrum Artifacts used in this project include the product backlog, which consists
 #####  Relationship Manager/Information System Diagram
 
 <p align="center">
-  <img src="img/ActivityDiagram_RM.png">
+  <img  width="60%" height="60%" src="img/ActivityDiagram_RM.png">
 </p>
 
 ### 10.  **Class  Diagram**
