@@ -89,7 +89,7 @@ The travel company requires a new information systems to meet the needs of the f
 
 #####  Relationship Manager/Information System Diagram
 
-![RM Activity Diagram](img/RM_ActivityDiagram.PNG)
+![RM Activity Diagram](img/RM_ActivityDiagram.png)
 
 ### **Class  Diagrams**
 
