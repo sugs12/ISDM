@@ -139,6 +139,8 @@ Scrum Artifacts used in this project include the product backlog, which consists
 
 ### 11. **Collaboration Diagram**
 
+![Collaboration Diagram](img/Collaboration_Diagram.png)
+
 ### 12. **Competitive Advantages**
 
 This is some dot points
