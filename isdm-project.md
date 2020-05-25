@@ -70,17 +70,20 @@ The travel company requires a new information systems to meet the needs of the f
 
 ### **Assumptions**
 
-* The following project started from 1st January 2020.
-* For every RM, there is one customer served at a time. 
-* For every RM. there is one RM profile created for them. 
+* The following project started from 1st January 2020. 
 * The RM can be disconnected in a call at any time, either intentionally or unintentionally by the customer.        
 * The customer will be calling the travel company for either: enquiries about existing products or interest in purchasing an existing product
 * The customer cannot ask for a specific RM to serve them, as the customer will be directed to the first available RM that will meet their needs or enquiries.
 * The customer has the option to purchase the product online or in-store, assuming that the travel company has a website and a physical store.
 * There is an increase of customers during the holiday season, especially during school holidays.
 * The current system can dial the same number automatically according to the target list generated.
+* The phone call will not be recorded at any point in time due to privacy concerns.
+* Assuming the call centre is still available during a pandemic, there will be an increase of enquiries rather than sales. However, there will be a decrease of RMs due to health and safety concerns.
+
 
 ### **Use Case Diagrams**
+
+![Call Management System](img/Use_Case_Customer.png)
 
 ### **Activity Diagrams**
 
