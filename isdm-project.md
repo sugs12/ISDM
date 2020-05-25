@@ -64,7 +64,7 @@ The travel company requires a new information systems to meet the needs of the f
 #####  5.  Travel Company
 
 <p align="center">
-  <img src="imgTravel_Company.PNG">
+  <img src="img/Travel_Company.PNG">
 </p>
 
 ### 4. **Product Backlog (User Stories)**
