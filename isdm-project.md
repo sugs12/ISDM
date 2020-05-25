@@ -84,6 +84,8 @@ The travel company requires a new information systems to meet the needs of the f
 
 ### **Use Case Diagrams**
 
+![Call Management System](img/Use_Case_Customer.png)
+
 ### **Activity Diagrams**
 
 #####  Relationship Manager/Information System Diagram
