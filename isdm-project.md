@@ -65,13 +65,49 @@ The travel company requires a new information systems to meet the needs of the f
 
 ![Travel Company Empathy](img/Travel_Company.PNG)
 
-### 4. **Product Backlog**
+### 4. **Product Backlog (User Stories)**
+#### Customers
+* As a customer, I want the Relationship Manager to provide me with a personalised holiday package based on my needs so I can enjoy an authentic experience.
+* As a customer, I want the Relationship manager to manage all my bookings because I will be paying for their services.
+* As a customer, I want a notification when RM will call be back so that I do not have to wait on the phone for 30 minutes.
+* As a customer, I want the Relationship Manager to send me a confirmation email with my booking details, so I can verify it.
+* As a customer, I want the same Relationship Manager to serve me that served me earlier because they will be able to cater to my needs better and I trust them.
+* As a customer, I want a confirmation email of RM's personal details so that I can contact the RM's directly if I have any questions in the future.
+* As a customer, I want the Relationship Manager to provide me with travel advice, so I can make the right travel decisions.
+* As a customer, I want to be connected to a suitable RM as soon as possible, so that I don't have to wait for a long time to be served.
+* As a customer, I want the Relationship Manager to be knowledgeable in the travel areas I am interested in, so that I can get the best information possible.
+
+#### Information System
+* As an RM, I want the information system to automatically call customers on the target list so that I can do my job efficiently.
+* As a RM, I want the information system to automatically connect me with customers that match my skill set, so that I can maximise sales.
+
+#### Relationship Managers
+* As a RM, I want an accurate matching system so that I can effectively assist customers with their needs and enquiries.
+* As a RM, I want the system to provide guidelines and a script when calling customers, so that I can provide the best possible customer service.
+
+#### Company Owner
+* As a company owner, I want to improve the call flow rate so that my staff can serve customers effectively and efficiently. 
+* As a company owner, I want to demonstrate the profiler tool so that I can convince the senior staff to accept the proposal.
+* As a company owner, I want to have the profiler tool so that my staff can promote a service to a customer.
+* As a company owner, I want to have the profiler tool so that my staff can achieve a sale.
+* As a company owner, I want to have the RM feature implemented into my company so that the operation of our house call management centre will improve. 
+
+#### Travel Company
+* As a travel company. I want the system can allocate the RMs with specialised knowledge to customer so that my holiday package can be explained correctly.  
+* As a travel company. I want system can send any related information that customer has enquired so that the appropriate holiday package can be sent to customer.
+* As a travel company, I want RM to access to holiday package information so that I can sell the product.
 
 ### 5. **Approach from a Design Thinking Perspective**
-#####  Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Our first stage will consist of creating empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology, the Ideate and Prototype phase will consist of creating a variety of business diagrams such as the Collaboration, Sequence and Use Case Diagrams which will help us visualise to the stakeholder our interpretation of their requirements. This will also allow the stakeholder to give any feedback to us about the requirement. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. 
+Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Our first stage will consist of creating empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing.
+
+During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology, the Ideate and Prototype phase will consist of creating a variety of business diagrams such as the Collaboration, Sequence and Use Case Diagrams which will help us visualise to the stakeholder our interpretation of their requirements. This will also allow the stakeholder to give any feedback to us about the requirement. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. 
 
 ### 6.  **Agile Methodology**
-##### The Scrum framework we have used to carry out this procedure follows the values and principles of Agile methodology.  The Scrum team consists of three roles including a Product Owner, who is a single person allowing for faster decision making, Scrum Master, who is responsible for ensuring the Scrum framework and Agile methodology is enacted and a Development Team, who is responsible for building a potentially releasable product at the end of each Sprint.  The Sprints are two weeks long allowing for faster feedback and more opportunities to improve on design, coding, testing, and documentation.  Each Sprint starts with Sprint Planning to define a goal of the sprint and each Sprint ends with a Sprint Review and Sprint Retrospective, to examine what has been made, what worked well, what didn’t work well and ways to improve in the next increment.   Scrum Artifacts used in this project include the product backlog, which consists of User Stories that outline the requirements for the system and product, and Sprint Backlog, which consists of a specific list of items taken from the product backlog to be completed in a sprint.
+The Scrum framework we have used to carry out this procedure follows the values and principles of Agile methodology.  The Scrum team consists of three roles including a Product Owner, who is a single person allowing for faster decision making, Scrum Master, who is responsible for ensuring the Scrum framework and Agile methodology is enacted and a Development Team, who is responsible for building a potentially releasable product at the end of each Sprint.  
+
+The Sprints are two weeks long allowing for faster feedback and more opportunities to improve on design, coding, testing, and documentation.  Each Sprint starts with Sprint Planning to define a goal of the sprint and each Sprint ends with a Sprint Review and Sprint Retrospective, to examine what has been made, what worked well, what didn’t work well and ways to improve in the next increment.   
+
+Scrum Artifacts used in this project include the product backlog, which consists of User Stories that outline the requirements for the system and product, and Sprint Backlog, which consists of a specific list of items taken from the product backlog to be completed in a sprint.
 
 ### 7.  **Assumptions**
 
