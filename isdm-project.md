@@ -2,7 +2,7 @@
 
 ### Table Of Contents
 1. Project Objectives
-2. Problem Defination
+2. Problem Definition
 3. Stakeholders 
 4. Product Backlog
 5. Design Thinking 
@@ -33,7 +33,7 @@
 * Improve accuracy when matching a customer to a Relationship Manager (RM) that suits the customer’s needs.
 * Redirect the call of a customer to an Automatic Call Distributor which will route the call to the first available appropriate RM.
 
-### 2. **Problem Defination**
+### 2. **Problem Definition**
 The problem that this major travel company faced that lead them to request a new information system was that thier present CMC has a weak call flow control which causes a clutter, making the customers hang up due to the long wait time. The system operation is also complicated because of the varying number of RMs and nature of the holiday packages offered.
 
 The travel company requires a new information systems to meet the needs of the following stakeholders:
