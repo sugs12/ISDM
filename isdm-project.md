@@ -126,6 +126,8 @@ Scrum Artifacts used in this project include the product backlog, which consists
 ### 8.  **Use Case Diagrams**
 
 ![Call Management System](img/Use_Case_Customer.png)
+![Call Management System](img/Company Owner -3.png)
+
 
 ### 9.  **Activity Diagrams**
 
@@ -142,7 +144,7 @@ Scrum Artifacts used in this project include the product backlog, which consists
 </p>
 
 ### 10.  **Class  Diagram**
-
+(img/Class Diagram IDSM-2.jpg)
 
 ### 11. **Collaboration Diagram**
 
