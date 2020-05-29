@@ -144,7 +144,7 @@ Scrum Artifacts used in this project include the product backlog, which consists
 </p>
 
 ### 10.  **Class  Diagram**
-![Class Diagram](img/Class Diagram IDSM-2.jpg)
+![Class Diagram](https://github.com/sugs12/ISDM-tute2/blob/master/img/Class%20Diagram%20IDSM-2.jpg)
 
 ### 11. **Collaboration Diagram**
 
