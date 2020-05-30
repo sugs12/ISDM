@@ -16,7 +16,7 @@
 13. Presentation
 
 ### 1. **Project Objectives**
-#### The primary objective is to develop a simplified information system that will improve operation of the in-house call management system (CMC) of a major travel company. The following objectives can help accomplish this goal:  
+#### The primary objective is to develop a simplified information system that will improve the operation of the in-house call management system (CMC) of a major travel company. The following objectives will help accomplish this goal:  
 
 * List the overall assumptions of the system.
 * Define the problem from a design thinking perspective.
@@ -34,7 +34,7 @@
 * Redirect the call of a customer to an Automatic Call Distributor which will route the call to the first available appropriate RM.
 
 ### 2. **Problem Definition**
-The problem that this major travel company faced that lead them to request a new information system was that thier present CMC has a weak call flow control which causes a clutter, making the customers hang up due to the long wait time. The system operation is also complicated because of the varying number of RMs and nature of the holiday packages offered.
+The problem that this major travel company has is due to their Call Management Centre. Their CMC has a weak and cluttered call flow control which causes a clutter which causes customers to hang up due to the long wait time. The system operation is also complicated because of the varying number of Relationship Managers and nature of the holiday packages offered. These two main issues have led the comapany to request a new information system in order to improve both the CMC and the management of holiday packages and RMs.
 
 The travel company requires a new information systems to meet the needs of the following stakeholders:
 * Relationship Managers: Need a better calling system to effectively communicate with the customer, in order to sell the company’s products.
