@@ -25,7 +25,7 @@
 * Create diagrams that can be used to help explain, promote and visualise the new business system.
 * Discuss advantages and disadvantages of improving the overall system as well as the failures that can be associated with this.
 
-#### Achieving the above mentioned objectives and developing the information system will enable the travel company to: 
+#### By achieving the above mentioned objectives and developing the information system, the travel company will be able to complete the following tasks more effectively:
 
 * Sell holiday packages to potential customers efficiently.
 * Minimize the inbound call costs by reducing per-call handling time.
@@ -107,9 +107,9 @@ During the design phase, we aim to brainstorm a list of methods that will help s
 ### 6.  **Agile Methodology**
 The Scrum framework we have used to carry out this procedure follows the values and principles of Agile methodology.  The Scrum team consists of three roles including a Product Owner, who is a single person allowing for faster decision making, Scrum Master, who is responsible for ensuring the Scrum framework and Agile methodology is enacted and a Development Team, who is responsible for building a potentially releasable product at the end of each Sprint.  
 
-The Sprints are two weeks long allowing for faster feedback and more opportunities to improve on design, coding, testing, and documentation.  Each Sprint starts with Sprint Planning to define a goal of the sprint and each Sprint ends with a Sprint Review and Sprint Retrospective, to examine what has been made, what worked well, what didn’t work well and ways to improve in the next increment.   
+The Sprints are two weeks long allowing for faster feedback and more opportunities to improve on design, coding, testing, and documentation. Each Sprint starts with Sprint Planning to define a goal of the sprint and each Sprint ends with a Sprint Review and Sprint Retrospective, to examine what has been made, what worked well, what didn’t work well and ways to improve in the next increment. By the ended of each increment, a product has been designed, coded and tested. Through repetitive increments, the Development Team, Product Owner and Scrum Master can get feedback from the customer about the product development and any added requirements that the customer wants in their product.     
 
-Scrum Artifacts used in this project include the product backlog, which consists of User Stories that outline the requirements for the system and product, and Sprint Backlog, which consists of a specific list of items taken from the product backlog to be completed in a sprint.
+Scrum Artifacts used in this project include the Product Backlog, which consists of User Stories that outline the requirements for the system and product, Sprint Backlog which consists of a specific list of items taken from the product backlog to be completed in a sprint and the Sprint Burn-Down Chart which tracks the total amount of work remaining for the team to complete. The Burn-Down Chart is designed to predict when the work will be completed and is used to motivate the team throughout the sprint. 
 
 ### 7.  **Assumptions**
 
