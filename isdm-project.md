@@ -167,20 +167,20 @@ Implementation of this new information system that will provide a range of compe
 
 -	Reducing business operation expenses. Since, RMs can work remotely, business does not require office spaces and office equipment to operate. Thus, cost on business operation expenses will reduce.
 
--	Makes recruiting the right staff easy. The system will assist business to identify employees that will match with their customer demographic and employees can work remotely, and jobs can be outsourced oversea. So the recruitment process can be more flexible and easy. 
+-	Ease of recruitment. The system will assist business to identify employees that will match with their customer demographic and employees can work remotely, and jobs can be outsourced oversea. This allows the recruitment process to become more flexible and easy. 
 
 -	Increase profit for company. Shorting the duration of calls will allow RMs response to more inbound calls and make more outbound calls. As the result, RMs will makes more holiday package sales and more profit will be generated for the business. 
 
--	Increase business values.  Improving customers’ satisfactory will increase their loyalty to company. Customers will talk to their families and friends about the service and holiday package. As the result, company will get more customers. 
+-	Increase business values.  Improving customers’ satisfactory will increase their loyalty to company. Customers will talk to their families and friends about the service and holiday package. As a result, company will get more customers. 
 
 Overall, the new information will increase business profit and productivity. However, there are requirements to be considered for implementation of the new information system. These requirements include:
 -	Setting up costs versus future profits. Costs for setting up new system, hiring new RMs, re-evaluating existing RMs’ skills, and training staffs can be expensive.  
 
 -	Weakening customer relationships with company. Since, company might need a smaller number of office spaces to operate, customers whom still prefer face-to-face contact, might find it will be inconvenient due to less accessing points. 
 
--	Miscommunication. Miscommunications are common problems of having conversations over the phone. There is no body language can be seen over the phone. So RMs might not able to understand customers and cannot engage with them positively  
+-	Miscommunication. Miscommunication is common with over-the-phone conversations. Due to the lack of facial and body language, RMs and customers may not be able to understand each other and as such, cannot engage with them positively  
 
--	Unexpected network outage and disasters. Customers will not able to contact RMs or accessing information urgently if there are network outage and disasters. 
+-	Unexpected network outage and disasters. Customers will not able to contact RMs or accessing information urgently if there is a network outage or a disasters. 
 
 
 ### 13.  **Presentation**
