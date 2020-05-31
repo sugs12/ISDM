@@ -41,7 +41,7 @@ The travel company requires a new information systems to meet the needs of the f
 * Company: Needs an effective management system that enables them to work better internally. This would increase the overall organization of the business.   
 * Company Owner: Needs an effective business tool that earns profit for the company as well as increasing overall company reputation.  
 * Customers: Need to receive better customer service from the company. This can be fixed by being matched with the correct RM that is tailored to the customers profile and will be served by a qualified RM who is experienced in the customer’s needs. During busy times, they ccould be directed to an Interactive Voice Response so they do not suffer from a long wait time. 
-* Travel companay: Need a good effective and convinient system that holiday package can be accessed easily RMs and exposed to customers. Thus, this will increase holiday package sales and gain more negotiation power to get a better value and high quality holiday packages. 
+* Travel companay: Need a good effective and convinient system that holiday package information can be accessed easily RMs and exposed to customers. Thus, this will increase holiday package sales and gain more negotiation power to get a better value and high quality holiday packages. 
 
 ### 3. **Stakeholders (Empathy Maps)**
 
@@ -156,14 +156,14 @@ Scrum Artifacts used in this project include the Product Backlog, which consists
 
 Implementation of this new information system that will provide a range of competitive advantages for the current in-house call CMC operation.  These competitive advantages include: 
 -	Shorting the duration of inbound and outbound calls. The system will recommend a suitable RM who will know exactly what the customers’  needs and wants. Thus, the conversation between the RMs and customers will be short and precise.
--	Improve customer service. The system will provide customers options; to wait or be called back, by RMs so that customers will not have to wait too long to get connection to a RM. 
--	Increase accessibility for the customers. With the new system, RMs can work from remote location, so customers can contact beyond business operation hours. 
+-	Improve in providing customer service. The system will provide customers with options of to wait or be called back, by RMs so that customers will not have to wait too long to get connection to a RM. 
+-	Increase contact accessibility for the customers. With the new system, RMs can work from remote location, so customers can contact beyond business operation hours. 
 -	Reducing business operation expenses. RMs can work remotely, business does not require office spaces and office equipment to operate. Thus, cost on business operation expenses will be reduced.
 -	Ease hiring the right employees. The system will assist business to hire employees that will match with their customer demographic. Also, employees can work remotely, jobs can be outsourced oversea. 
--	Increase business profitability. Shorting the duration of calls will allow RMs response to more inbound calls and make more outbound calls. Thus, RMs will makes more holiday package sales and more profit will be made for the business. 
+-	Increase business profit. Shorting the duration of calls will allow RMs response to more inbound calls and make more outbound calls. Thus, RMs will makes more holiday package sales and more profit will be made for the business. 
 -	Increase business values.  The system will store and save customers’ information and thus, business will able to use the information to learn about their customers. So that, business can develop more effective marketing strategies, increase sales, and reduces costs. 
 
-Overall, the new information will increase business profitability and productivity. However, there are requirements need to be considered for implementation of the new information system. These requirements include:
+Overall, the new information will increase business profit and productivity. However, there are requirements need to be considered for implementation of the new information system. These requirements include:
 -	Setting up costs versus future profits. Costs for implementation of a new information system can be expensive. The costs involved in this case are setting up new systems, hiring new RMs, re-evaluating existing RMs’ skills, and training staffs on using the system.  
 -	Customer relationships with the business. Less accessing points for customers can potentially weaken the relationship between customers and the business. There are customers still prefer to have face-to-face contact relationship. 
 -	Miscommunication. Miscommunications are common issues of having conversations over the phone. There is no body language can be seen over the phone and often body language helps RMs to understand customers better and can engage with them positively  
