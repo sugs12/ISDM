@@ -154,19 +154,29 @@ Scrum Artifacts used in this project include the Product Backlog, which consists
 
 ### 12. **Competitive Advantages**
 
-Implementation of this new information system that will provide a range of competitive advantages for the current in-house call CMC operation.  These competitive advantages include: 
--	Shorting the duration of inbound and outbound calls. The system will recommend a suitable RM who will know exactly what the customers’  needs and wants. Thus, the conversation between the RMs and customers will be short and precise.
--	Improve in providing customer service. The system will provide customers with options of to wait or be called back, by RMs so that customers will not have to wait too long to get connection to a RM. 
--	Increase contact accessibility for the customers. With the new system, RMs can work from remote location, so customers can contact beyond business operation hours. 
--	Reducing business operation expenses. RMs can work remotely, business does not require office spaces and office equipment to operate. Thus, cost on business operation expenses will be reduced.
--	Ease hiring the right employees. The system will assist business to hire employees that will match with their customer demographic. Also, employees can work remotely, jobs can be outsourced oversea. 
--	Increase business profit. Shorting the duration of calls will allow RMs response to more inbound calls and make more outbound calls. Thus, RMs will makes more holiday package sales and more profit will be made for the business. 
--	Increase business values.  The system will store and save customers’ information and thus, business will able to use the information to learn about their customers. So that, business can develop more effective marketing strategies, increase sales, and reduces costs. 
+Implementation of this new information system that will provide a range of competitive advantages for the current in-house CMC operation.  These competitive advantages include: 
 
-Overall, the new information will increase business profit and productivity. However, there are requirements need to be considered for implementation of the new information system. These requirements include:
--	Setting up costs versus future profits. Costs for implementation of a new information system can be expensive. The costs involved in this case are setting up new systems, hiring new RMs, re-evaluating existing RMs’ skills, and training staffs on using the system.  
--	Customer relationships with the business. Less accessing points for customers can potentially weaken the relationship between customers and the business. There are customers still prefer to have face-to-face contact relationship. 
--	Miscommunication. Miscommunications are common issues of having conversations over the phone. There is no body language can be seen over the phone and often body language helps RMs to understand customers better and can engage with them positively  
+-	Shorting the duration of inbound and outbound calls. The system will recommend suitable RMs whom will know exactly what the customers’ needs and wants. Thus, the conversation between the RMs and customers will be short and precise.
+
+-	Improve in providing customer service. The system will inform customers the waiting and provide with option be called back. So that customer can decide to keep waiting or to be contacted by RMs later.
+
+-	Increase accessibility for the customers. With the new system, RMs can work from remote locations, so customers can contact beyond business operation hours. 
+
+-	Reducing business operation expenses. Since, RMs can work remotely, business does not require office spaces and office equipment to operate. Thus, cost on business operation expenses will reduce.
+
+-	Makes recruiting the right staff easy. The system will assist business to identify employees that will match with their customer demographic and employees can work remotely, and jobs can be outsourced oversea. So the recruitment process can be more flexible and easy. 
+
+-	Increase profit for company. Shorting the duration of calls will allow RMs response to more inbound calls and make more outbound calls. As the result, RMs will makes more holiday package sales and more profit will be generated for the business. 
+
+-	Increase business values.  Improving customers’ satisfactory will increase their loyalty to company. Customers will talk to their families and friends about the service and holiday package. As the result, company will get more customers. 
+
+Overall, the new information will increase business profit and productivity. However, there are requirements to be considered for implementation of the new information system. These requirements include:
+-	Setting up costs versus future profits. Costs for setting up new system, hiring new RMs, re-evaluating existing RMs’ skills, and training staffs can be expensive.  
+
+-	Weakening customer relationships with company. Since, company might need a smaller number of office spaces to operate, customers whom still prefer face-to-face contact, might find it will be inconvenient due to less accessing points. 
+
+-	Miscommunication. Miscommunications are common problems of having conversations over the phone. There is no body language can be seen over the phone. So RMs might not able to understand customers and cannot engage with them positively  
+
 -	Unexpected network outage and disasters. Customers will not able to contact RMs or accessing information urgently if there are network outage and disasters. 
 
 
