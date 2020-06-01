@@ -1,4 +1,5 @@
-# ISDM – 31257 Autumn 2020 - Project Report (tute 2 - Abdul Babar)
+# ISDM – 31257 Autumn 2020 - Project Report
+# (tute 2 - Abdul Babar)
 
 ## Project Team
 * Michael Larsen (12941783)
