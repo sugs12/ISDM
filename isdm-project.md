@@ -25,6 +25,8 @@
 10. Collaboration Diagram
 12. Competitve Advantages
 
+<div style="page-break-after: always"></div>
+
 ### 1. **Project Objectives**
 #### The primary objective is to develop a simplified information system that will improve the operation of the in-house call management system (CMC) of a major travel company. The following objectives will help accomplish this goal:  
 
