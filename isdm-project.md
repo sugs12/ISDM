@@ -5,7 +5,7 @@
 * Clodagn Maclean-Milne (13559048)
 * Nina Tran (13568631)
 * Syeda Sughra (13502947)
-* Thao Tran (...)
+* Thao Tran (99135321)
 
 ## Presentation
 
