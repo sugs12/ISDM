@@ -2,7 +2,7 @@
 
 ## Project Team
 * Michael Larsen (12941783)
-* Clodagn Maclean-Milne (13559048)
+* Clodagh Maclean-Milne (13559048)
 * Nina Tran (13568631)
 * Syeda Sughra (13502947)
 * Thao Tran (99135321)
@@ -11,7 +11,7 @@
 
 ##### https://www.youtube.com/watch?v=EJfosqsFjr0&feature=youtu.be
 
-## Table Of Contents
+## Table of Contents
 1. Project Objectives
 2. Problem Definition
 3. Stakeholders 
@@ -23,9 +23,7 @@
 9. Activity Diagrams
 10. Class Diagram
 10. Collaboration Diagram
-12. Competitve Advantages
-
-<div style="page-break-after: always"></div>
+12. Competitive Advantages
 
 ### 1. **Project Objectives**
 #### The primary objective is to develop a simplified information system that will improve the operation of the in-house call management system (CMC) of a major travel company. The following objectives will help accomplish this goal:  
@@ -34,10 +32,10 @@
 * Define the problem from a design thinking perspective.
 * Provide suggestions as to how the company can improve their operations.
 * Document the proposed solutions including any Information System models and work products.
-* Create diagrams that can be used to help explain, promote and visualise the new business system.
+* Create diagrams that can be used to help explain, promote, and visualise the new business system.
 * Discuss advantages and disadvantages of improving the overall system as well as the failures that can be associated with this.
 
-#### By achieving the above mentioned objectives and developing the information system, the travel company will be able to complete the following tasks more effectively:
+#### By achieving the above-mentioned objectives and developing the information system, the travel company will be able to complete the following tasks more effectively:
 
 * Sell holiday packages to potential customers efficiently.
 * Minimize the inbound call costs by reducing per-call handling time.
@@ -46,14 +44,14 @@
 * Redirect the call of a customer to an Automatic Call Distributor which will route the call to the first available appropriate RM.
 
 ### 2. **Problem Definition**
-The problem that this major travel company has is due to their Call Management Centre. Their CMC has a weak and cluttered call flow control which causes customers to hang up due to the long wait time. The system operation is also complicated due to the varying number of Relationship Managers and nature of the holiday packages offered. These two main issues have led the comapany to request a new information system in order to improve both the CMC and the management of holiday packages and RMs.
+The problem that this major travel company has is due to their Call Management Centre. Their CMC has a weak and cluttered call flow control which causes customers to hang up due to the long wait time. The system operation is also complicated due to the varying number of Relationship Managers and nature of the holiday packages offered. These two main issues have led the company to request a new information system to improve both the CMC and the management of holiday packages and RMs.
 
-The travel company requires a new information systems to meet the needs of the following stakeholders:
-* Relationship Managers: Need a better calling system to effectively communicate with the customer in order to sell the company’s products.
+The travel company requires a new information system to meet the needs of the following stakeholders:
+* Relationship Managers: Need a better calling system to effectively communicate with the customer to sell the company’s products.
 * Company: Needs an effective management system that enables them to work better internally. This would increase the overall organization of the business.   
 * Company Owner: Needs an effective business tool that earns profit for the company as well as increasing overall company reputation.  
-* Customers: Need to receive better customer service from the company. This can be fixed by being matched with the correct RM that is tailored to the customers profile and will be served by a qualified RM who is experienced in the customer’s needs. During busy times, they ccould be directed to an Interactive Voice Response so they do not suffer from a long wait time. 
-* Travel companay: Need a good effective and convinient system that holiday package information can be accessed easily RMs and exposed to customers. Thus, this will increase holiday package sales and gain more negotiation power to get a better value and high quality holiday packages. 
+* Customers: Need to receive better customer service from the company. This can be fixed by being matched with the correct RM that is tailored to the customers profile and will be served by a qualified RM who is experienced in the customer’s needs. During busy times, they could be directed to an Interactive Voice Response so they do not suffer from a long wait time. 
+* Travel company: Need a good effective and convenient system that holiday package information can be accessed easily RMs and exposed to customers. Thus, this will increase holiday package sales and gain more negotiation power to get a better value and high-quality holiday packages. 
 
 ### 3. **Stakeholders (Empathy Maps)**
 
@@ -88,7 +86,7 @@ The travel company requires a new information systems to meet the needs of the f
 * As a customer, I want the same Relationship Manager to serve me that served me earlier because they will be able to cater to my needs better and I trust them.
 * As a customer, I want a confirmation email of RM's personal details so that I can contact the RM's directly if I have any questions in the future.
 * As a customer, I want the Relationship Manager to provide me with travel advice, so I can make the right travel decisions.
-* As a customer, I want to be connected to a suitable RM as soon as possible, so that I don't have to wait for a long time to be served.
+* As a customer, I want to be connected to a suitable RM as soon as possible, so that I do not have to wait for a long time to be served.
 * As a customer, I want the Relationship Manager to be knowledgeable in the travel areas I am interested in, so that I can get the best information possible.
 
 #### Information System
@@ -112,14 +110,14 @@ The travel company requires a new information systems to meet the needs of the f
 * As a travel company, I want RM to access to holiday package information so that I can sell the product.
 
 ### 5. **Approach from a Design Thinking Perspective**
-Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Design Thinking can be defined as a systematic approach that uses the designer's sensibility and methods to match the stakeholder's needs. There are five stages assosciated with Design Thinking: Empathise, Define, Ideate, Prototype and Test.
+Our approach to solve the problem that the travel company is experiencing will be shaped by the five stages of design thinking. Design Thinking can be defined as a systematic approach that uses the designer's sensibility and methods to match the stakeholder's needs. There are five stages associated with Design Thinking: Empathise, Define, Ideate, Prototype and Test.
 
-In the Empathise stage, we will create empathy maps in order to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as a whole as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. 
+In the Empathise stage, we will create empathy maps to better understand the POV of our various stakeholders. These empathy maps will allow us to understand the problem as well as any concerns, questions and feelings our stakeholders have about this project. Using these empathy maps will enable us to create a problem statement which will summarise the problem that the company is experiencing. 
 
 During the design phase, we aim to brainstorm a list of methods that will help solve the company problem through the Agile Scrum Methodology. We will then propose these methods to the travel company and ask for their opinion on our proposed solutions. 
-In the Ideate stage, ideas and solutions will be generated through various techniques such as brainstorming or the worst possible idea. By using these techniques, a wide variety of ideas can be generated. In the prototype stage, a small inexpensive form of a solution from the Ideate stage will be built. Alongside this, diagrams such as the collaboration, class and activity diagrams will be created in order to propose our idea of the new system to the company. Finally, the test phase will consist of testing the product in order to ensure that it meets the stakeholder’s expectation and that it will be successful. It is an iterative process in which the product is tested using the solutions identified. Refinements are made from each test in order to gain the best possible solution. 
+In the Ideate stage, ideas and solutions will be generated through various techniques such as brainstorming or the worst possible idea. By using these techniques, a wide variety of ideas can be generated. In the prototype stage, a small inexpensive form of a solution from the Ideate stage will be built. Alongside this, diagrams such as the collaboration, class and activity diagrams will be created to propose our idea of the new system to the company. Finally, the test phase will consist of testing the product to ensure that it meets the stakeholder’s expectation and that it will be successful. It is an iterative process in which the product is tested using the solutions identified. Refinements are made from each test in order to gain the best possible solution. 
 
-By using the Design Thinking Methodology, it is hoped that a solution for this problem will be generated and that the operations of the company will improve. 
+Using Design Thinking Methodology, it can be hoped that a solution for this problem will be generated and that the operations of the company will improve. 
 
 ### 6.  **Agile Methodology**
 The Scrum framework we have used to carry out this procedure follows the values and principles of Agile methodology.  The Scrum team consists of three roles including a Product Owner, who is a single person allowing for faster decision making, Scrum Master, who is responsible for ensuring the Scrum framework and Agile methodology is enacted and a Development Team, who is responsible for building a potentially releasable product at the end of each Sprint.  
@@ -160,7 +158,7 @@ Scrum Artifacts used in this project include the Product Backlog, which consists
   <img  width="70%" height="70%" src="img/activity.png">
 </p>
 
-### 10.  **Class  Diagram**
+### 10.  **Class Diagram**
 ![Class Diagram](https://github.com/sugs12/ISDM-tute2/blob/master/img/Class%20Diagram%20IDSM-2.jpg)
 
 ### 11. **Collaboration Diagram**
@@ -179,7 +177,7 @@ Implementation of this new information system that will provide a range of compe
 
 -	Reducing business operation expenses. Since, RMs can work remotely, business does not require office spaces and office equipment to operate. Thus, cost on business operation expenses will reduce.
 
--	Ease of recruitment. The system will assist business to identify employees that will match with their customer demographic and employees can work remotely, and jobs can be outsourced oversea. This allows the recruitment process to become more flexible and easy. 
+-	Ease of recruitment. The system will assist business to identify employees that will match with their customer demographic and employees can work remotely, and jobs can be outsourced oversea. This allows the recruitment process to become easier and more flexible. 
 
 -	Increase profit for company. Shorting the duration of calls will allow RMs response to more inbound calls and make more outbound calls. As the result, RMs will makes more holiday package sales and more profit will be generated for the business. 
 
@@ -188,8 +186,8 @@ Implementation of this new information system that will provide a range of compe
 Overall, the new information will increase business profit and productivity. However, there are requirements to be considered for implementation of the new information system. These requirements include:
 -	Setting up costs versus future profits. Costs for setting up new system, hiring new RMs, re-evaluating existing RMs’ skills, and training staffs can be expensive.  
 
--	Weakening customer relationships with company. Since, company might need a smaller number of office spaces to operate, customers whom still prefer face-to-face contact, might find it will be inconvenient due to less accessing points. 
+-	Weakening customer relationships with company. Since, company might need a smaller number of office spaces to operate, customers who still prefer face-to-face contact, might find it will be inconvenient due to less accessing points. 
 
 -	Miscommunication. Miscommunication is common with over-the-phone conversations. Due to the lack of facial and body language, RMs and customers may not be able to understand each other and as such, cannot engage with them positively  
 
--	Unexpected network outage and disasters. Customers will not able to contact RMs or accessing information urgently if there is a network outage or a disasters. 
+-	Unexpected network outage and disasters. Customers will not able to contact RMs or accessing information urgently if there is a network outage or a disaster.
