@@ -1,5 +1,9 @@
 ## ISDM – 31257 Autumn 2020 - Project Report (tute 2 - Abdul Babar)
 
+### **Presentation**
+
+##### (link)
+
 ### Table Of Contents
 1. Project Objectives
 2. Problem Definition
@@ -13,7 +17,6 @@
 10. Class Diagram
 10. Collaboration Diagram
 12. Competitve Advantages
-13. Presentation
 
 ### 1. **Project Objectives**
 #### The primary objective is to develop a simplified information system that will improve the operation of the in-house call management system (CMC) of a major travel company. The following objectives will help accomplish this goal:  
@@ -181,8 +184,3 @@ Overall, the new information will increase business profit and productivity. How
 -	Miscommunication. Miscommunication is common with over-the-phone conversations. Due to the lack of facial and body language, RMs and customers may not be able to understand each other and as such, cannot engage with them positively  
 
 -	Unexpected network outage and disasters. Customers will not able to contact RMs or accessing information urgently if there is a network outage or a disasters. 
-
-
-### 13.  **Presentation**
-
-##### (link)
