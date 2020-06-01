@@ -1,6 +1,6 @@
 ## ISDM – 31257 Autumn 2020 - Project Report (tute 2 - Abdul Babar)
 
-### **Presentation**
+### Presentation
 
 ##### (link)
 
