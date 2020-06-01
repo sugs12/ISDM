@@ -1,10 +1,17 @@
-## ISDM – 31257 Autumn 2020 - Project Report (tute 2 - Abdul Babar)
+# ISDM – 31257 Autumn 2020 - Project Report (tute 2 - Abdul Babar)
 
-### Presentation
+## Project Team
+* Michael Larsen (12941783)
+* Clodagn Maclean-Milne (13559048)
+* Nina Tran (13568631)
+* Syeda Sughra (13502947)
+* Thao Tran (...)
+
+## Presentation
 
 ##### (link)
 
-### Table Of Contents
+## Table Of Contents
 1. Project Objectives
 2. Problem Definition
 3. Stakeholders 
